@@ -1,0 +1,1 @@
+# apex-legends-speed-booster-2026
